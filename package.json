@@ -1,0 +1,26 @@
+{
+  "name": "ethers_tutorial",
+  "version": "1.0.0",
+  "description": "ethers js tutorial",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test",
+    "start": "index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanokothdev/Send-Transaction-using-Ether.js.git"
+  },
+  "keywords": [
+    "Ether.js"
+  ],
+  "author": "Allan Okoth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanokothdev/Send-Transaction-using-Ether.js/issues"
+  },
+  "homepage": "https://github.com/allanokothdev/Send-Transaction-using-Ether.js#readme",
+  "dependencies": {
+    "ethers": "^5.5.4"
+  }
+}
